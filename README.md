@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hola, soy Camilo Zambrano
+# 👋 Hola, Soy Camilo Zambrano
 
 ### Software Development Student · SENA · Backend Development
 
