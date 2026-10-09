@@ -34,7 +34,7 @@ Mi objetivo es evolucionar desde el aprendizaje de tecnologías individuales hac
 
 - 💻 Desarrollo de software
 - 🗄️ Bases de datos y SQL
-- ☕ Python
+- ☕ Python Y Java
 - 🔧 Git y GitHub
 - 🎨 Diseño de interfaces y prototipos
 - 🧠 Fundamentos de inteligencia artificial
