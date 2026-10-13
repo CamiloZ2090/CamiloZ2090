@@ -2,7 +2,7 @@
 
 # 👋 Hello, Soy Camilo Zambrano
 
-### Software Development Student · SENA · Backend Development
+### Software Development Student · SENA · Full Stack Development
 
 <a href="https://github.com/CamiloZ2090">
   <img src="https://img.shields.io/badge/GitHub-CamiloZ2090-181717?style=for-the-badge&logo=github&logoColor=white"/>
