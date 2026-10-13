@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hola, Soy Camilo Zambrano
+# 👋 Hello, Soy Camilo Zambrano
 
 ### Software Development Student · SENA · Backend Development
 
@@ -45,10 +45,10 @@ Mi objetivo es evolucionar desde el aprendizaje de tecnologías individuales hac
 
 ## 🛠️ Tecnologías
 
-### Lenguajes
+### Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,javascript,python,html,css&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=java,python,theme=dark"/>
 </p>
 
 ### Frontend
@@ -60,7 +60,7 @@ Mi objetivo es evolucionar desde el aprendizaje de tecnologías individuales hac
 ### Bases de Datos
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgresqlL&theme=dark"/>
 </p>
 
 ### Herramientas
