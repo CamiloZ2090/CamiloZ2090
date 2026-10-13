@@ -57,10 +57,16 @@ Mi objetivo es evolucionar desde el aprendizaje de tecnologías individuales hac
 <img src="https://skillicons.dev/icons?i=html,css,javascript&theme=dark"/>
 </p>
 
+###Framewords
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=Boostrap,react,theme=dark"/>
+</p>
+
 ### Bases de Datos
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postgresqlL&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=dark"/>
 </p>
 
 ### Herramientas
