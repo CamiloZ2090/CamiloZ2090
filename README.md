@@ -57,7 +57,7 @@ Mi objetivo es evolucionar desde el aprendizaje de tecnologías individuales hac
 <img src="https://skillicons.dev/icons?i=html,css,javascript&theme=dark"/>
 </p>
 
-###Framewords
+### Framewords
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=Boostrap,react,theme=dark"/>
