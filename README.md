@@ -219,40 +219,13 @@ Repositorio dedicado a proyectos y ejercicios relacionados con el aprendizaje de
 
 ---
 
-## 🎯 Mi enfoque actual
+## 🌎 Connect With Me
 
-```yaml
-profile:
-  role: "Software Development Student"
-  institution: "SENA"
-  location: "Bogotá, Colombia"
+<p>
+  <a href="https://www.linkedin.com/in/camilo-zambrano0000/" target="_blank">
+    LinkedIn
+  </a>
+</p>
 
-learning:
-  - Software Development
-  - Python
-  - Django
-  - FastAPI
-  - HTML | CSS | JavaScript
-  - Databases
-  - Git & GitHub
-  - Software Engineering Fundamentals
 
-building:
-  - Academic Projects
-  - Web Applications
-  - Database Projects
-  - Software Prototypes
-  - Personal Portfolio
 
-exploring:
-  - Backend Development
-  - APIs
-  - Artificial Intelligence
-  - Automation
-  - Software Architecture
-  - Cloud Technologies
-
-goal:
-  - "Become a professional Software Engineer"
-  - "Build real-world software solutions"
-  - "Continue growing through practical projects"
