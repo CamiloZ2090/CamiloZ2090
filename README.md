@@ -82,7 +82,8 @@ Mi objetivo es evolucionar desde el aprendizaje de tecnologías individuales hac
 Actualmente mi perfil cuenta con **3 repositorios públicos principales**, enfocados en diferentes áreas del desarrollo de software.
 
 ---
-
+<details>
+  
 <summary><strong>🖨️ PrintSmart 3D — Análisis, Gestión y Optimización de Costos</strong></summary>
 
 <br>
@@ -143,8 +144,6 @@ Desarrollar una solución digital que permita organizar procesos relacionados co
 </details>
 
 ---
-
-<details>
 
 <details>
 <summary><strong>🗄️ Proyectos Base de Datos</strong></summary>
