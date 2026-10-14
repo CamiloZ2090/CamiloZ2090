@@ -47,31 +47,31 @@ Mi objetivo es evolucionar desde el aprendizaje de tecnologías individuales hac
 
 ### Backend
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=java,python,theme=dark"/>
 </p>
 
 ### Frontend
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,javascript&theme=dark"/>
 </p>
 
 ### Framewords
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=bootstrap,react&theme=dark"/>
 </p>
 
 ### Bases de Datos
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=dark"/>
 </p>
 
 ### Herramientas
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark"/>
 </p>
 
@@ -80,6 +80,36 @@ Mi objetivo es evolucionar desde el aprendizaje de tecnologías individuales hac
 ## 📂 Mis proyectos
 
 Actualmente mi perfil cuenta con **3 repositorios públicos principales**, enfocados en diferentes áreas del desarrollo de software.
+
+---
+
+<summary><strong>🖨️ PrintSmart 3D — Análisis, Gestión y Optimización de Costos</strong></summary>
+
+<br>
+
+Proyecto orientado al análisis y gestión de costos relacionados con procesos de impresión 3D.
+
+### Objetivo
+
+Crear una herramienta que permita organizar información relacionada con los costos de impresión y facilitar el análisis para tomar decisiones.
+
+### Enfoque
+
+| Área | Descripción |
+|---|---|
+| 🎯 Problema | Análisis y control de costos de impresión 3D |
+| 💻 Tecnología | HTML | CSS | JavaScript | Boostrap | Python | 
+| 📊 Análisis | Organización y procesamiento de información |
+| ⚙️ Optimización | Enfoque en reducción y control de costos |
+| 📚 Contexto | Proyecto de aprendizaje y desarrollo de software |
+
+### Repositorio
+
+<a href="https://github.com/CamiloZ2090/PrintSmart-3D---Sistema-para-el-analisis-gestion-y-optimizacion-de-costos-en-impresion-3D">
+<img src="https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</details>
 
 ---
 
@@ -115,35 +145,6 @@ Desarrollar una solución digital que permita organizar procesos relacionados co
 ---
 
 <details>
-<summary><strong>🖨️ PrintSmart 3D — Análisis, Gestión y Optimización de Costos</strong></summary>
-
-<br>
-
-Proyecto orientado al análisis y gestión de costos relacionados con procesos de impresión 3D.
-
-### Objetivo
-
-Crear una herramienta que permita organizar información relacionada con los costos de impresión y facilitar el análisis para tomar decisiones.
-
-### Enfoque
-
-| Área | Descripción |
-|---|---|
-| 🎯 Problema | Análisis y control de costos de impresión 3D |
-| 💻 Tecnología | HTML | CSS | JavaScript | Boostrap | Python | 
-| 📊 Análisis | Organización y procesamiento de información |
-| ⚙️ Optimización | Enfoque en reducción y control de costos |
-| 📚 Contexto | Proyecto de aprendizaje y desarrollo de software |
-
-### Repositorio
-
-<a href="https://github.com/CamiloZ2090/PrintSmart-3D---Sistema-para-el-analisis-gestion-y-optimizacion-de-costos-en-impresion-3D">
-<img src="https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</details>
-
----
 
 <details>
 <summary><strong>🗄️ Proyectos Base de Datos</strong></summary>
