@@ -24,7 +24,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy estudiante de **Tecnólogo en Desarrollo de Software en el SENA**, enfocado en construir una base sólida en programación, desarrollo web, bases de datos y principios de ingeniería de software.
+Soy estudiante de **Tecnólogo en Desarrollo de Software en el SENA**, enfocado en construir una base sólida en programación, bases de datos y principios de ingeniería de software.
 
 Actualmente estoy desarrollando proyectos académicos y personales mientras fortalezco mis conocimientos mediante la práctica y el aprendizaje autónomo.
 
