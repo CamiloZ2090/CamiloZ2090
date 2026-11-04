@@ -84,7 +84,7 @@ Actualmente mi perfil cuenta con **4 repositorios públicos principales**, enfoc
 ---
 <details>
   
-<summary><strong>🖨️ PrintSmart 3D - Análisis, Gestión y Optimización de Costos</strong></summary>
+<summary><strong>PrintSmart 3D - Análisis, Gestión y Optimización de Costos</strong></summary>
 
 <br>
 
@@ -144,7 +144,7 @@ Desarrollar una solución digital que permita organizar procesos relacionados co
 ---
 <details>
 
-<summary><strong>💈 BarberApp - Sistema de Agendamiento de Citas para Barbería Lord Fade</strong></summary>
+<summary><strong>BarberApp - Sistema de Agendamiento de Citas para Barbería Lord Fade</strong></summary>
 
 <br>
 
@@ -175,7 +175,7 @@ Desarrollar una solución digital que permita organizar procesos relacionados co
 ---
 
 <details>
-<summary><strong>🗄️ Proyectos Base de Datos</strong></summary>
+<summary><strong>Proyectos Base de Datos</strong></summary>
 
 <br>
 
