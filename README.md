@@ -79,7 +79,7 @@ Mi objetivo es evolucionar desde el aprendizaje de tecnologías individuales hac
 
 ## 📂 Mis proyectos
 
-Actualmente mi perfil cuenta con **3 repositorios públicos principales**, enfocados en diferentes áreas del desarrollo de software.
+Actualmente mi perfil cuenta con **4 repositorios públicos principales**, enfocados en diferentes áreas del desarrollo de software.
 
 ---
 <details>
@@ -141,7 +141,9 @@ Desarrollar una solución digital que permita organizar procesos relacionados co
 
 </details>
 
+---
 <details>
+
 <summary><strong>💈 BarberApp - Sistema de Agendamiento de Citas para Barbería Lord Fade</strong></summary>
 
 <br>
