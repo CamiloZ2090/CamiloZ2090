@@ -113,6 +113,33 @@ Crear una herramienta que permita organizar información relacionada con los cos
 </details>
 
 ---
+<details>
+<summary><strong>Hospital Rosario Pumarejo De Lopez - Sistema de Gestion Hospitalaria</strong></summary>
+
+<br>
+
+Sistema orientado a la gestión y organización de citas para una red hospitalaria.
+
+### Objetivo
+
+Desarrollar una solución digital que permita organizar procesos relacionados con la agenda citas de especializadas en el que se aplican conceptos de desarrollo de software en un contexto real.
+
+### Enfoque
+
+| Área | Descripción |
+|---|---|
+| 🎯 Problema | Organización de citas y procesos del Hospital |
+| 💻 Desarrollo | Aplicación orientada a la gestión de información |
+| 🗄️ Datos | Organización de información relacionada con pacientes, personal medico y citas |
+| 🎨 Diseño | Interfaz enfocada en facilidad de uso |
+
+### Repositorio
+
+<a href="https://github.com/CamiloZ2090/Sistema_de_Gesti-n_Hospitalaria_Hospital_Rosario_Pumarejo_De_Lopez.git">
+<img src="https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</details>
 
 <details>
 <summary><strong>💈 BarberApp - Sistema de Agendamiento de Citas para Barbería Lord Fade</strong></summary>
